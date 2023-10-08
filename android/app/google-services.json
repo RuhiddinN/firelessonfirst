@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503422018420",
+    "project_id": "fire-lesson-first",
+    "storage_bucket": "fire-lesson-first.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503422018420:android:aefcc87bd1f367bd0c8221",
+        "android_client_info": {
+          "package_name": "com.ruhiddin.firelessonfirst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBraUoO3fyDEBGZXnv6aKTIJC1Y5Sh7Kyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
